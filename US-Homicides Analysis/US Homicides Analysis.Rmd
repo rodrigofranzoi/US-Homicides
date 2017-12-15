@@ -162,7 +162,7 @@ f <- function(str) {
 lapply(races, f)
 ```
 
-  We can observe that, even with differerents intensities of color in each state, the statates follows some pattern according to the race.
+  We can observe that, even with different intensities of color in each state, the states follows some pattern according to the race.
 
 #Conclusion
 
